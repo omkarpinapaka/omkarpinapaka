@@ -54,14 +54,15 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects
 
-🔹 **Bank Transaction Ledger – SQL**
-A SQL-based project focused on managing and analyzing banking transactions.
+* **Hospitality Analytics:** Analyzed hospitality data using **Power BI, Tableau, and Excel** to track revenue, bookings, occupancy, cancellations, and customer trends.
 
-🔹 **Gun Detection System**
-Computer vision project using Python, OpenCV, PyTorch, and YOLOv8 for firearm detection.
+* **Highcloud Airlines Performance Analysis:** Analyzed airline performance data using **SQL, Power BI, Tableau, and Excel** to identify KPIs, operational trends, delays, and passenger patterns.
 
-🔹 **Data Analytics Dashboards**
-Interactive dashboards and reports created using Power BI, Tableau, Excel, and SQL.
+* **Bank Transaction Ledger — SQL:** Developed a **MySQL-based transaction analysis system** using advanced SQL queries to analyze customer accounts and financial transactions.
+
+* **Gun Detection Using YOLOv8:** Developed a **real-time firearm detection system** using Python, YOLOv8, OpenCV, and PyTorch, achieving **71.9% mAP@50**.
+
+
 
 ## 📊 What I'm Currently Working On
 
