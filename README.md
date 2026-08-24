@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 <!--
 **omkarpinapaka/omkarpinapaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 About Me
+
 
 🎓 B.Tech Computer Science graduate specializing in IoT.
 📊 Aspiring Data Analyst passionate about data analysis and visualization.
@@ -75,7 +75,14 @@ Here are some ideas to get you started:
 
 ## 🎯 Career Goal
 
-To start my career as a **Data Analyst** and use data, analytics, and technology to solve real-world business problems.
+To start my career as a **Data Analyst,
+Buisiness Analyst,
+Marketing Analyst,
+BI Analyst,
+Business Intelligence Engineer,
+MIS Analyst,
+Finance Analyst,
+HR Analyst** and use data, analytics, and technology to solve real-world business problems.
 
 ---
 
