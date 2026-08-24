@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 * 🐍 Python for Data Analysis
 * 🗄️ SQL & Database Management
 * 📊 Power BI & Tableau Dashboards
-* 🤖 Machine Learning & Computer Vision
 * 🚀 Building real-world portfolio projects
 
 ## 🎯 Career Goal
