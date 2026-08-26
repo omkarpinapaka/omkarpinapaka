@@ -1,89 +1,173 @@
-## Hi  👋
+# 👋 Hi, I'm Omkar Pinapaka
 
-<!--
-**omkarpinapaka/omkarpinapaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Business Analyst
 
-Here are some ideas to get you started:
+> **Turning data into insights, insights into decisions, and ideas into measurable impact.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Hyderabad, India   |   🎓 Fresher   |   📊 Data Analytics & Business Intelligence
 
-
-🎓 B.Tech Computer Science graduate specializing in IoT.
-📊 Aspiring Data Analyst passionate about data analysis and visualization.
-💻 Skilled in Python, SQL, Excel, Power BI, and Tableau.
-🤖 Interested in Machine Learning, Computer Vision, and Data Analytics.
-📈 Building projects to solve real-world problems using data and technology.
-🚀 Continuously learning and improving my technical skills.
-🤝 Open to internships, collaborations, and exciting opportunities.
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/omkarpinapaka/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/omkarpinapakain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pinapakaomkar3292@gmail.com)
-
-## 💻 Tech Stack
-
-### 📊 Data Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-
-### 🤖 Machine Learning & Computer Vision
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-## 📌 Featured Projects
-
-* **Hospitality Analytics:** Analyzed hospitality data using **Power BI, Tableau, and Excel** to track revenue, bookings, occupancy, cancellations, and customer trends.
-
-* **Highcloud Airlines Performance Analysis:** Analyzed airline performance data using **SQL, Power BI, Tableau, and Excel** to identify KPIs, operational trends, delays, and passenger patterns.
-
-* **Bank Transaction Ledger — SQL:** Developed a **MySQL-based transaction analysis system** using advanced SQL queries to analyze customer accounts and financial transactions.
-
-* **Gun Detection Using YOLOv8:** Developed a **real-time firearm detection system** using Python, YOLOv8, OpenCV, and PyTorch, achieving **71.9% mAP@50**.
-
-
-
-## 📊 What I'm Currently Working On
-
-* 📈 Data Analytics & Business Intelligence
-* 🐍 Python for Data Analysis
-* 🗄️ SQL & Database Management
-* 📊 Power BI & Tableau Dashboards
-* 🚀 Building real-world portfolio projects
-
-## 🎯 Career Goal
-
-To start my career as a **Data Analyst,
-Buisiness Analyst,
-Marketing Analyst,
-BI Analyst,
-Business Intelligence Engineer,
-MIS Analyst,
-Finance Analyst,
-HR Analyst** and use data, analytics, and technology to solve real-world business problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Pinapaka-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omkarpinapaka/)
+[![GitHub](https://img.shields.io/badge/GitHub-omkarpinapaka-181717?style=for-the-badge\&logo=github)](https://github.com/omkarpinapaka)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pinapakaomkar3292@gmail.com)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+## 🚀 About Me
 
+I'm a **Data Analyst and Business Analyst fresher** passionate about transforming raw data into meaningful business insights.
+
+* 📊 Skilled in **Excel, SQL, Power BI, Tableau, and Python**
+* 🔍 Interested in **data analysis, visualization, reporting, and business intelligence**
+* 🧩 Experienced in working with datasets, dashboards, KPIs, and analytical projects
+* 💡 Focused on solving business problems through data-driven thinking
+* 🌱 Continuously learning modern analytics tools and best practices
+* 🎯 Looking for opportunities where I can contribute, learn, and grow as an analyst
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+
+### 💻 Development & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,mysql,git,github,vscode,chatgpt" />
+</p>
+
+---
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏨 Hospitality Analytics Dashboard
+
+Interactive hospitality analytics dashboard designed to analyze hotel performance, revenue, bookings, cancellations, and key business KPIs.
+
+**Tech Stack**
+- Excel
+- Power BI
+- Tableau
+- Data Visualization
+
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka)
+
+</td>
+
+### ✈️ HighCloud Airlines Data Analysis
+
+Interactive airline analytics project focused on extracting business insights from aviation data.
+
+**Tech Stack**
+
+* Excel
+* Power BI
+* Tableau
+* SQL
+
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔫 Gun Detection using YOLOv8
+
+Computer vision project for detecting firearms from images/video using deep learning and object detection.
+
+**Tech Stack**
+
+* Python
+* YOLOv8
+* OpenCV
+* PyTorch
+* Streamlit
+
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💳 Bank Transaction Ledger
+
+SQL-based project focused on organizing, querying, and analyzing financial transaction data.
+
+**Tech Stack**
+
+* MySQL
+* SQL
+* Data Analysis
+
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/pinapakaomkar3292-coder/Bank-Transaction-Ledger-SQL)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+I'm currently strengthening my skills as a **Data Analyst** with a focus on:
+
+`Advanced SQL` · `Excel Analytics` · `Power BI` · `Tableau` · `Python for Data Analysis` · `Data Visualization` · `Business Intelligence` · `Statistics` · `Data Storytelling`
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with **recruiters, analysts, hiring managers, and professionals** working in Data Analytics and Business Intelligence.
+
+<p align="center">
+
+<a href="https://github.com/omkarpinapaka">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omkarpinapaka/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:pinapakaomkar3292@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💼 Career Focus
+
+**Data Analyst • Business Analyst • Business Intelligence • Data Visualization • SQL Analytics**
+
+> *"Good decisions start with good data."*
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br/>
+  ⭐ Feel free to explore my repositories and connect with me.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkarpinapaka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  © 2026 <b>Omkar Pinapaka</b> · Built with data, curiosity & continuous learning.
+</p>
