@@ -50,7 +50,7 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
 <tr>
 <td width="33%" valign="top">
 
-### 🏨 Hospitality Analytics Dashboard
+### 🏨 Hospitality Analytics 
 
 Interactive hospitality analytics dashboard designed to analyze hotel performance, revenue, bookings, cancellations, and key business KPIs.
 
@@ -60,7 +60,7 @@ Interactive hospitality analytics dashboard designed to analyze hotel performanc
 - Tableau
 - Data Visualization
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/omkarpinapaka](https://github.com/omkarpinapaka/Hospitality-Analytics))
 
 </td>
 
