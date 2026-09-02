@@ -98,24 +98,6 @@ Computer vision project for detecting firearms from images/video using deep lear
 
 <td width="33%" valign="top">
 
-### 💳 Bank Transaction Ledger
-
-SQL-based project focused on organizing, querying, and analyzing financial transaction data.
-
-**Tech Stack**
-
-* MySQL
-* SQL
-* Data Analysis
-
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/pinapakaomkar3292-coder/Bank-Transaction-Ledger-SQL)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📚 Currently Learning
 
 I'm currently strengthening my skills as a **Data Analyst** with a focus on:
