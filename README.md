@@ -44,13 +44,15 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
 </p>
 
 ---
+---
 ## ⭐ Featured Projects
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### 🏨 Hospitality Analytics 
+### 🏨 Hospitality Analytics
 
 Interactive hospitality analytics dashboard designed to analyze hotel performance, revenue, bookings, cancellations, and key business KPIs.
 
@@ -64,18 +66,19 @@ Interactive hospitality analytics dashboard designed to analyze hotel performanc
 
 </td>
 
+<td width="33%" valign="top">
+
 ### ✈️ HighCloud Airlines Data Analysis
 
 Interactive airline analytics project focused on extracting business insights from aviation data.
 
 **Tech Stack**
+- Excel
+- Power BI
+- Tableau
+- SQL
 
-* Excel
-* Power BI
-* Tableau
-* SQL
-
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
 
 </td>
 
@@ -86,17 +89,18 @@ Interactive airline analytics project focused on extracting business insights fr
 Computer vision project for detecting firearms from images/video using deep learning and object detection.
 
 **Tech Stack**
-
-* Python
-* YOLOv8
-* OpenCV
-* PyTorch
-* Streamlit
-
+- Python
+- YOLOv8
+- OpenCV
+- PyTorch
+- Streamlit
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+</table>
+
+---
 
 ## 📚 Currently Learning
 
@@ -153,3 +157,4 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 <p align="center">
   © 2026 <b>Omkar Pinapaka</b> · Built with data, curiosity & continuous learning.
 </p>
+
