@@ -138,7 +138,12 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 
 ## 💼 Career Focus
 
-**Data Analyst • Business Analyst • Business Intelligence • Data Visualization • SQL Analytics**
+**Data Analyst • Business Analyst
+• BI Analyst
+• Business Intelligence Engineer
+• MIS Analyst
+• Finance Analyst
+• HR Analyst**
 
 > *"Good decisions start with good data."*
 
