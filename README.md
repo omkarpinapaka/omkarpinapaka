@@ -44,7 +44,6 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
 </p>
 
 ---
----
 ## ⭐ Featured Projects
 
 <table>
