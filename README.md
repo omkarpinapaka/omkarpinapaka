@@ -6,22 +6,31 @@
 
 📍 Hyderabad, India   |   🎓 Fresher   |   📊 Data Analytics & Business Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Pinapaka-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omkarpinapaka/)
-[![GitHub](https://img.shields.io/badge/GitHub-omkarpinapaka-181717?style=for-the-badge\&logo=github)](https://github.com/omkarpinapaka)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pinapakaomkar3292@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/omkarpinapaka/">
+    <img src="https://img.shields.io/badge/LinkedIn-Omkar%20Pinapaka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/omkarpinapaka">
+    <img src="https://img.shields.io/badge/GitHub-omkarpinapaka-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:pinapakaomkar3292@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Data Analyst and Business Analyst fresher** passionate about transforming raw data into meaningful business insights.
+I'm a **Data Analyst and Business Analyst fresher** passionate about transforming raw data into meaningful insights and supporting data-driven business decisions.
 
 * 📊 Skilled in **Excel, SQL, Power BI, Tableau, and Python**
-* 🔍 Interested in **data analysis, visualization, reporting, and business intelligence**
-* 🧩 Experienced in working with datasets, dashboards, KPIs, and analytical projects
-* 💡 Focused on solving business problems through data-driven thinking
-* 🌱 Continuously learning modern analytics tools and best practices
-* 🎯 Looking for opportunities where I can contribute, learn, and grow as an analyst
+* 🔍 Interested in **Data Analysis, Business Intelligence, Reporting, and Data Visualization**
+* 🧩 Experienced with **data cleaning, preprocessing, validation, transformation, EDA, KPIs, and dashboards**
+* 📈 Focused on converting complex datasets into clear and actionable insights
+* 💡 Interested in solving business problems through analytical and data-driven thinking
+* 🌱 Continuously improving my technical and analytical skills
+* 🎯 Open to opportunities in **Data Analytics and Business Intelligence**
 
 ---
 
@@ -33,118 +42,113 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-### 💻 Development & Tools
+### 💻 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,mysql,git,github,vscode,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
+
 ## ⭐ Featured Projects
 
-<table>
-<tr>
+### 🏦 Bank Analytics
 
-<td width="33%" valign="top">
+Analyzed banking transaction data to identify **customer behavior, transaction trends, financial performance, and key business KPIs**.
+
+Performed data cleaning, preprocessing, validation, transformation, and exploratory data analysis using **MySQL and Excel**. Developed an interactive **Power BI dashboard** using DAX, calculated measures, KPIs, slicers, filters, and dynamic visualizations.
+
+**Tech Stack:**
+`MySQL` · `Power BI` · `DAX` · `Advanced Excel` · `Data Analysis` · `Data Visualization`
+
+<a href="https://github.com/omkarpinapaka/Bank-Analytics">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
 
 ### 🏨 Hospitality Analytics
 
-Interactive hospitality analytics dashboard designed to analyze hotel performance, revenue, bookings, cancellations, and key business KPIs.
+Interactive hospitality analytics project focused on analyzing **hotel performance, revenue, bookings, cancellations, occupancy, and key business KPIs**.
 
-**Tech Stack**
-- Excel
-- Power BI
-- Tableau
-- Data Visualization
+Built analytical dashboards to transform hospitality data into meaningful business insights and performance indicators.
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/Hospitality-Analytics)
+**Tech Stack:**
+`Excel` · `Power BI` · `Tableau` · `Data Analysis` · `Data Visualization`
 
-</td>
+<a href="https://github.com/omkarpinapaka/Hospitality-Analytics">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<td width="33%" valign="top">
+---
 
 ### ✈️ HighCloud Airlines Data Analysis
 
-Interactive airline analytics project focused on extracting business insights from aviation data.
+Interactive airline analytics project focused on analyzing **aviation performance, passenger trends, routes, and business KPIs**.
 
-**Tech Stack**
-- Excel
-- Power BI
-- Tableau
-- SQL
+Used data analysis and visualization techniques to identify patterns and generate meaningful insights from airline datasets.
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
+**Tech Stack:**
+`Excel` · `Power BI` · `Tableau` · `SQL` · `Data Analysis`
 
-</td>
+<a href="https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<td width="33%" valign="top">
+---
 
 ### 🔫 Gun Detection using YOLOv8
 
-Computer vision project for detecting firearms from images/video using deep learning and object detection.
+Computer vision project focused on **firearm detection** from images and video using deep learning and object detection.
 
-**Tech Stack**
-- Python
-- YOLOv8
-- OpenCV
-- PyTorch
-- Streamlit
+Implemented real-time detection using YOLOv8 with computer vision tools and an interactive interface.
 
-</td>
-
-</tr>
-</table>
+**Tech Stack:**
+`Python` · `YOLOv8` · `OpenCV` · `PyTorch` · `Streamlit`
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently strengthening my skills as a **Data Analyst** with a focus on:
+I'm continuously strengthening my Data Analytics and Business Intelligence skills.
 
-`Advanced SQL` · `Excel Analytics` · `Power BI` · `Tableau` · `Python for Data Analysis` · `Data Visualization` · `Business Intelligence` · `Statistics` · `Data Storytelling`
-
----
-
-## 🤝 Let's Connect
-
-I'm open to connecting with **recruiters, analysts, hiring managers, and professionals** working in Data Analytics and Business Intelligence.
-
-<p align="center">
-
-<a href="https://github.com/omkarpinapaka">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/omkarpinapaka/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:pinapakaomkar3292@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+`Advanced SQL` · `Excel Analytics` · `Power BI` · `Tableau` · `Python for Data Analysis` · `Statistics` · `Data Visualization` · `Business Intelligence` · `Data Storytelling`
 
 ---
 
 ## 💼 Career Focus
 
-**Data Analyst • Business Analyst
-• BI Analyst
-• Business Intelligence Engineer
-• MIS Analyst
-• Finance Analyst
-• HR Analyst**
+I'm currently building my career toward roles such as:
 
-> *"Good decisions start with good data."*
+**Data Analyst** · **Business Analyst** · **BI Analyst** · **MIS Analyst** · **Business Intelligence Engineer** · **Finance Analyst** · **HR Analyst**
+
+> **Good decisions start with good data.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with **recruiters, hiring managers, analysts, and professionals** working in Data Analytics and Business Intelligence.
+
+<p align="center">
+  <a href="https://github.com/omkarpinapaka">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/omkarpinapaka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pinapakaomkar3292@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -161,4 +165,3 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 <p align="center">
   © 2026 <b>Omkar Pinapaka</b> · Built with data, curiosity & continuous learning.
 </p>
-
