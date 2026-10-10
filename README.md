@@ -159,9 +159,5 @@ I'm open to connecting with **recruiters, hiring managers, analysts, and profess
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarpinapaka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
   © 2026 <b>Omkar Pinapaka</b> · Built with data, curiosity & continuous learning.
 </p>
